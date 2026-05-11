@@ -11,14 +11,10 @@ Proyecto de una página web estática creada con **HTML y CSS**.
 
 ## Estructura
 
-BarCopa/
+ClinicaDental/
 │
 ├── index.html
 ├── style.css
-├── bar.jpg
-├── fondo.jpg
-├── icono.jpg
-└── logo.jpg
 
 
 ## Cómo abrir el proyecto
